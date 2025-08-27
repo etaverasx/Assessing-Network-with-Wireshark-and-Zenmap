@@ -15,12 +15,15 @@ This project is a detailed account of my first steps into the wild world of netw
 - ARP: A protocol to find a device's MAC address from its IP address.
 - Ping: Tests the connectivity of a host.
 
-## Let's Dive In: ##
+## Topology: ##
+<img width="567" height="310" alt="Screenshot 2025-08-27 at 11 56 22 AM" src="https://github.com/user-attachments/assets/53969f45-dd30-4309-8839-c348992415f8" />
 
-**Section 1: Hands-On Demonstration:**
-This section provided a step-by-step walkthrough for performing network reconnaissance on a Local Area Network (LAN). Key tasks included:
+- vWorkstation (Windows Server 2019)
 
-Using ipconfig, arp, and ping to explore the LAN and populate a network assessment spreadsheet.
+- TargetWindow01 (Windows Server 2019)
 
-Capturing and analyzing network traffic using Wireshark and Zenmap to understand the behavior of ICMP and ARP packets during various scans (Ping, Regular, and Intense).
+- TargetLinux01 (Ubuntu Linux)
 
+- AttaxkLinux01 (Kali Linux)
+
+- RemoteWindows01 (Window Server 2019)
