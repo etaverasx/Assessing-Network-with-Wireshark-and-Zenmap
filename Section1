@@ -1,1 +1,1 @@
-
+I opened Command Prompt and typed ipconfig, which displayed the basic information about the vWorkstation’s network adapter. From there, I typed ipconfig /all to display detailed information about the vWorkstation.
