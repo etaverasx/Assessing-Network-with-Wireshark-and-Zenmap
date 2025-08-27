@@ -14,3 +14,13 @@ This project is a detailed account of my first steps into the wild world of netw
 - ifconfig: Displays network configuration on Linux.
 - ARP: A protocol to find a device's MAC address from its IP address.
 - Ping: Tests the connectivity of a host.
+
+## Let's Dive In: ##
+
+**Section 1: Hands-On Demonstration:**
+This section provided a step-by-step walkthrough for performing network reconnaissance on a Local Area Network (LAN). Key tasks included:
+
+Using ipconfig, arp, and ping to explore the LAN and populate a network assessment spreadsheet.
+
+Capturing and analyzing network traffic using Wireshark and Zenmap to understand the behavior of ICMP and ARP packets during various scans (Ping, Regular, and Intense).
+
