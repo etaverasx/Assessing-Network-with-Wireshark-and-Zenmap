@@ -33,7 +33,7 @@ This project is a detailed account of my first steps into the wild world of netw
 
 ## Sections: ##
 
-**Section 1**: Hands-On Demonstration:
+**Section 1** Hands-On Demonstration:
 
 This section provided a step-by-step walkthrough for performing network reconnaissance on a Local Area Network (LAN). Key tasks included:
 
