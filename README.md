@@ -14,6 +14,9 @@ This project is a detailed account of my first steps into the wild world of netw
 - ifconfig: Displays network configuration on Linux.
 - ARP: A protocol to find a device's MAC address from its IP address.
 - Ping: Tests the connectivity of a host.
+- Hping3: Generates and analyzing TCP/IP packets.
+
+
 
 ## Topology: ##
 <img width="567" height="310" alt="Screenshot 2025-08-27 at 11 56 22 AM" src="https://github.com/user-attachments/assets/53969f45-dd30-4309-8839-c348992415f8" />
